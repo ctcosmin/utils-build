@@ -1,0 +1,19 @@
+{
+  "name": "utils-build",
+  "version": "0.0.1",
+  "description": "Holds various build files from different libraries",
+  "main": "ui-bootstrap-tpls-2.1.3.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ctcosmin/utils-build.git"
+  },
+  "author": "ctcosmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctcosmin/utils-build/issues"
+  },
+  "homepage": "https://github.com/ctcosmin/utils-build#readme"
+}
